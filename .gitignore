@@ -1,0 +1,6 @@
+dataset/
+ultralytics/
+.aug_importance.png
+.benchmarks.log
+.ga_importance.png
+.model_compare.png

@@ -1,0 +1,13 @@
+# 30/30 iterations complete ✅ (60738.50s)
+# Results saved to C:\Users\joons\workspace\final_project\runs\tuned_aug_auto\aug_auto
+# Best fitness=0.93601 observed at iteration 23
+# Best fitness metrics are {'metrics/precision(B)': 0.98334, 'metrics/recall(B)': 0.95577, 'metrics/mAP50(B)': 0.9882, 'metrics/mAP50-95(B)': 0.93022, 'val/box_loss': 0.36737, 'val/cls_loss': 0.21864, 'val/dfl_loss': 0.80008, 'fitness': 0.93601}
+# Best fitness model is C:\Users\joons\workspace\final_project\runs\tuned_aug_auto\train23
+# Best fitness hyperparameters are printed below.
+
+mosaic: 1.0
+mixup: 0.0
+hsv_s: 0.9
+degrees: 0.0
+scale: 0.37932
+fliplr: 0.14769

@@ -1,0 +1,11 @@
+# 24/30 iterations complete ✅ (43282.33s)
+# Results saved to C:\Users\joons\workspace\final_project\runs\mixed\mixed
+# Best fitness=0.93384 observed at iteration 19
+# Best fitness metrics are {'metrics/precision(B)': 0.98316, 'metrics/recall(B)': 0.95591, 'metrics/mAP50(B)': 0.9884, 'metrics/mAP50-95(B)': 0.92778, 'val/box_loss': 0.3737, 'val/cls_loss': 0.21721, 'val/dfl_loss': 0.80561, 'fitness': 0.93384}
+# Best fitness model is C:\Users\joons\workspace\final_project\runs\mixed\train19
+# Best fitness hyperparameters are printed below.
+
+mosaic: 0.8473
+scale: 0.33761
+fliplr: 0.37146
+momentum: 0.8797
